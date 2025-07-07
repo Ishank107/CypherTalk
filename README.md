@@ -25,7 +25,7 @@ A simple, anonymous chat web app with end-to-end AES-GCM encryption, powered by:
 Clone the repo:
 
 bash
-  git clone https://github.com/vineet1603/CypherTalk.git
+  git clone https://github.com/Ishank107/CypherTalk.git
   cd cyphertalk
   
 Install dependencies:
@@ -35,5 +35,5 @@ Run server:
   node server/index.js
   
 Open in browser:
+https://cyphertalk-uct5.onrender.com/
 
-http://localhost:3000
